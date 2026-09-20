@@ -5,7 +5,7 @@ End-to-end IBM Telco Customer Churn solution using scikit-learn and FastAPI.
 ## Public Git Repository
 `https://github.com/lakshaygoyat/customer-churn-prediction`
 
-Replace the placeholder before submission.
+This is the Github URL
 
 ## Workflow
 Business Problem → Data → Preparation → EDA → Feature Engineering → Model → Evaluation → Interpretation → Saved Model → API
