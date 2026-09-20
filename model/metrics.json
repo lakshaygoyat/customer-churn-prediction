@@ -1,0 +1,23 @@
+{
+  "accuracy": 0.7486985328916232,
+  "precision": 0.5182926829268293,
+  "recall": 0.7575757575757576,
+  "f1": 0.6154960173787111,
+  "roc_auc": 0.8273747174596174,
+  "confusion_matrix": [
+    [
+      1157,
+      395
+    ],
+    [
+      136,
+      425
+    ]
+  ],
+  "best_params": {
+    "model__class_weight": "balanced",
+    "model__criterion": "gini",
+    "model__max_depth": 4,
+    "model__min_samples_leaf": 20
+  }
+}
