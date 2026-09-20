@@ -142,6 +142,3 @@ For proactive telecom retention, recall is generally prioritized because a false
 - API input validation
 - feature importance export
 - model/preprocessing saved as a single reusable pipeline
-
-## Why no embeddings/LLM?
-This is supervised tabular classification. Embeddings such as BAAI/bge-m3 and an LLM such as Gemini are not necessary for the core prediction task. An LLM could be added later only as an optional explanation layer.
